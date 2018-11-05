@@ -8,5 +8,5 @@ hhkb在mac下,修改左右移动的组合键：Change left_command+;'[/ to arrow
 
 解决方案：
   使用Karabiner-Elements，安装后把配置文件替换成此json文件。
-  里面配有Change left_command+;'[/ to arrow keys的操作。
+  里面配有Change left_command+;'[/ to arrow keys的配置。
   
